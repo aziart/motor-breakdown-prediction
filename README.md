@@ -1,4 +1,4 @@
-# motor-breakdown-prediction
+# MOTOR BREAKAGE PREDICTION PROBLEM
 
 __Prediction of motor failure based on sensor readings.__  
 __Task:__ 
@@ -11,3 +11,9 @@ __Description of the [data](https://github.com/aziart/motor-breakdown-prediction
 - __cycle__: work cycle
 - __p00-p20__: sensor readings read during operation
 - __s0, s1__: settings changed at the end of each cycle  
+
+__[Full solution notebook](https://github.com/aziart/motor-breakdown-prediction/blob/main/Solution.ipynb) includes:__  
+- Data Overview and Analysis;
+- Feature Engineering
+- Different Approaches
+- Conclusion
